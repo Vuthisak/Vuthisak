@@ -6,7 +6,7 @@ I have a working experience with MVC (Model View Controller), MVP (Model View Pr
 I have also designed and developed web user controls, validation controls, CSS files using technologies like Javascript, XML, HTML.
 
 - Android: Kotlin, Java, Jetpack Compose, Coroutine, MVVM, MVP, etc. -> https://github.com/ttvnp/ttj-asset-android-client
-- Mobile Cross Platform: Flutter.
+- Mobile Cross Platform: Flutter
 - Web Back-End: NodeJS
 - Web: ReactJs, VueJs
 - Desktop: VueJs -> https://github.com/ttvnp/ttj-asset-desktop-client
