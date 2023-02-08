@@ -15,7 +15,7 @@ I have also designed and developed web user controls, validation controls, CSS f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vuthisak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&theme=radical)
+[![Vuthisak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&theme=dark)
 
 <!---
 Vuthisak/Vuthisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
