@@ -23,6 +23,10 @@ I have also designed and developed web user controls, validation controls, CSS f
 <img src="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true" />
 </picture>
 
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact" />
+</picture>
+
 <!---
 Vuthisak/Vuthisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
