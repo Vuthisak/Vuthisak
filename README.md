@@ -17,10 +17,6 @@ I have also designed and developed web user controls, validation controls, CSS f
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&bg_color=00000000"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&bg_color=00000000"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true" />
 </picture>
 
 <picture>
