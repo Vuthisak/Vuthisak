@@ -13,11 +13,7 @@ I have also designed and developed web user controls, validation controls, CSS f
 - Git, Git flow
 - AWS, GCP, Docker
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&bg_color=00000000"
-/>
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
