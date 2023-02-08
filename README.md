@@ -19,9 +19,7 @@ I have also designed and developed web user controls, validation controls, CSS f
 />
 </picture>
 
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Vuthisak/Vuthisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
