@@ -2,10 +2,10 @@
 <br/>
 I am a Software Engineer specializing in Android. <br/>
 I am experienced in desktops, mobile, and web development with open-source using Java, Kotlin, NodeJs, React, Vue, etc.  <br/>
-I have a working experience with MVC (Model View Controller), MVP (Model View Presenter), MVVM(Model View ViewModel).  <br/>
-I have also designed and developed web user controls, validation controls, CSS files using technologies like Javascript, XML, HTML.
+Upwork: https://www.upwork.com/freelancers/~0109e2c98d61b32e3a
 
 - Android: Kotlin, Java, Jetpack Compose, Coroutine, MVVM, MVP, etc. -> https://github.com/ttvnp/ttj-asset-android-client
+- iOS: Swift
 - Mobile Cross Platform: Flutter
 - Web Back-End: NodeJS
 - Web: ReactJs, VueJs
