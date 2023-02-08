@@ -12,6 +12,19 @@ I have also designed and developed web user controls, validation controls, CSS f
 - Desktop: VueJs -> https://github.com/ttvnp/ttj-asset-desktop-client
 - Git, Git flow
 - AWS, GCP, Docker
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true" />
+</picture>
+
 <!---
 Vuthisak/Vuthisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
