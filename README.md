@@ -15,7 +15,7 @@ Upwork: https://www.upwork.com/freelancers/~0109e2c98d61b32e3a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vuthisak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthisak&show_icons=true&theme=tokyonight)
+![Vuthisak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthisak&theme=transparent&show_icons=true)
 
 <!---
 Vuthisak/Vuthisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
