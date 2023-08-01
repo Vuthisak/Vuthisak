@@ -8,9 +8,6 @@ Repositories:
   - https://github.com/ttvnp/ttj-asset-android-client
   - https://github.com/ttvnp/ttj-asset-desktop-client
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthisak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Vuthisak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuthisak&theme=transparent&show_icons=true)
 
 <!---
